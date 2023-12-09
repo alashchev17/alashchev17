@@ -82,9 +82,9 @@ I'm a web developer who kicked off my adventure in 2020 with Glo Academy. Starti
 
 <div width="100%" align="center">
   <a href="https://github.com/alashchev17/mafia-randomizer" align="left">
-    <img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=alashchev17&repo=mafia-randomizer&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=alashchev17&repo=mafia-randomizer&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
   </a>
   <a href="https://github.com/alashchev17/pomodoro-focus" align="right">
-    <img align="right" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=alashchev17&repo=pomodoro-focus&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+    <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=alashchev17&repo=pomodoro-focus&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
   </a>
 </div>
