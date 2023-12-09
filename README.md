@@ -72,13 +72,8 @@ I'm a web developer who kicked off my adventure in 2020 with Glo Academy. Starti
   </a>
 </p>
 
-### Badges
 
-<a href="https://github.com/alashchev17" align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alashchev17&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
-</a>
-
-<b>Top Repositories</b>
+### Top Repositories
 
 <div width="100%" align="center">
   <a href="https://github.com/alashchev17/mafia-randomizer" align="left">
