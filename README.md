@@ -5,7 +5,7 @@ Frontend Developer
 I'm a web developer who kicked off my adventure in 2020 with Glo Academy. Starting with HTML/CSS/SCSS, I delved into Gulp, Webpack, and basic JavaScript in 2021. The next year introduced me to WebSockets, JavaScript ES6, and the exciting universe of ReactJS. Fast forward to 2023, where I tackled TypeScript, Redux Toolkit, and Firebase, completing a roadmap that's been nothing short of a game-changer. Today, I proudly stand as a web developer, applying the skills cultivated through Glo Academy's courses. This journey, fueled by passion and dedication, has empowered me to craft innovative solutions in the dynamic landscape of web development.  
 * 🌍  I'm based in Barcelona
 * ✉️  You can contact me at [lashchev.dev@gmail.com](mailto:lashchev.dev@gmail.com)
-* 🚀  I'm currently working on [Mafia (roles randomiser)](http://mafia-randomizer-react.vercel.app)
+* 🚀  I'm currently working on [Mafia (roles randomizer)](http://mafia-randomizer-react.vercel.app)
 * 🧠  I'm learning Redux Toolkit
 
 ### Skills  
