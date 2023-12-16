@@ -10,7 +10,7 @@ I'm a UI Developer who kicked off my adventure in 2020 with Glo Academy. Startin
 ---
 <p align="center">
   <a href="https://www.github.com/alashchev17" target="_blank" rel="noreferrer"><img alt="GitHub" src="https://img.shields.io/badge/alashchev17-%23181717?style=flat-square&logo=github&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/andrii-lashchov-338866277/" target="_blank" rel="noreferrer"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/andrii-lashchov/" target="_blank" rel="noreferrer"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="https://t.me/lashchev_dev" target="_blank" rel="noreferrer"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-%2326A5E4?style=flat-square&logo=telegram&logoColor=white" /></a>
   <a href="https://www.instagram.com/lashchev.dev" target="_blank" rel="noreferrer"><img alt="Instagram" src="https://img.shields.io/badge/lashchev.dev-%23E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
 </p>
