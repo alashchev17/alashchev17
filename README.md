@@ -5,8 +5,8 @@ UI Developer
 I'm a UI Developer who kicked off my adventure in 2020 with Glo Academy. Starting with HTML/CSS/SCSS, I delved into Gulp, Webpack, and basic JavaScript in 2021. The next year introduced me to WebSockets, JavaScript ES6, and the exciting universe of ReactJS. Fast forward to 2023, where I tackled TypeScript, Redux Toolkit, and Firebase, completing a roadmap that's been nothing short of a game-changer. Today, I proudly stand as a UI Developer, applying the skills cultivated through Glo Academy's courses. This journey, fueled by passion and dedication, has empowered me to craft innovative solutions in the dynamic landscape of web development.  
 * 🌍  I'm based in Barcelona
 * ✉️  You can contact me at [lashchev.dev@gmail.com](mailto:lashchev.dev@gmail.com)
-* 🚀  I'm currently working on [React Mines](https://github.com/alashchev17/react-mines)
-* 🧠  I'm currently learning [Redux Toolkit](https://redux-toolkit.js.org)
+* 🚀  I'm currently working on [Portfolio Webpage](https://github.com/alashchev17/next-portfolio)
+* 🧠  I'm currently learning [NextJS](https://nextjs.org)
 ---
 <p align="center">
   <a href="https://www.github.com/alashchev17" target="_blank" rel="noreferrer"><img alt="GitHub" src="https://img.shields.io/badge/alashchev17-%23181717?style=flat-square&logo=github&logoColor=white" /></a>
@@ -22,6 +22,7 @@ I'm a UI Developer who kicked off my adventure in 2020 with Glo Academy. Startin
   <a href="https://tailwindcss.com" target="_blank" rel="noreferrer"><img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-%2306B6D4?style=flat-square&logo=tailwindcss&logoColor=white" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /></a>
   <a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /></a>
+  <a href="https://nextjs.org" target="_blank" rel="noreferrer"><img alt="Next.js" src="https://img.shields.io/badge/NextJS-ffffff?style=flat-square&logo=next.js&logoColor=black" /></a>
   <a href="https://react.dev" target="_blank" rel="noreferrer"><img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" /></a>
   <a href="https://reactrouter.com" target="_blank" rel="noreferrer"><img alt="React Router" src="https://img.shields.io/badge/React%20Router-%23CA4245?style=flat-square&logo=reactrouter&logoColor=white" /></a>
   <a href="https://axios-http.com/docs/intro" target="_blank" rel="noreferrer"><img alt="Axios" src="https://img.shields.io/badge/Axios-%235A29E4?style=flat-square&logo=axios&logoColor=white" /></a>
