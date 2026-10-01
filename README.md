@@ -3,10 +3,7 @@ Hi 👋 My name is Andrii
 Frontend Engineer 
 ------------------  
 I'm a Frontend Engineer who kicked off the adventure in 2020. Starting with HTML/CSS/SCSS, I delved into Gulp, Webpack, and basic JavaScript in 2021. The next year introduced me to WebSockets, JavaScript ES6, and the exciting universe of ReactJS. Fast forward to 2023, where I tackled TypeScript, Redux Toolkit, and Firebase, completing a roadmap that's been nothing short of a game-changer. Since July 2024 until August 2025, I've been studying at [Harbour.Space University](https://harbour.space) and getting a Bachelor's Degree at Frontend Development. Today, I proudly stand as a Frontend Engineer, applying the skills on a daily basis. This journey, fueled by passion and dedication, has empowered me to craft innovative solutions in the dynamic landscape of web development.  
-* 🌍  I'm living in Poland
-* ✉️  You can contact me at [lashchev.dev@gmail.com](mailto:lashchev.dev@gmail.com)
-* 🚀  I'm currently working on [Flexus AI Operating System](https://github.com/smallcloudai/flexus)
-* 🧠  I'm currently learning [Python](https://www.python.org/)
+
 ---
 <p align="center">
   <a href="https://www.github.com/alashchev17" target="_blank" rel="noreferrer"><img alt="GitHub" src="https://img.shields.io/badge/alashchev17-%23181717?style=flat-square&logo=github&logoColor=white" /></a>
